@@ -18,10 +18,11 @@
 .content-name {
     display: flex;
     justify-content: space-between;
-    
+    font-weight: 500;
 align-items: center;
 padding: 0px;
 color: white;
+font-family:sans-serif;
 
 position: absolute;
 width: 1162px;
@@ -36,13 +37,6 @@ margin-left: 35px;
     position: relative;
     left: 20px;
     top: 2px;
-}
-h3{
-    font-family: Poppins;
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-
 }
 .banner img{
     display: flex;
@@ -59,7 +53,7 @@ height: 230px;
 left: 120px;
 top: 170px;
 color: #FFFFFF;
-font-family: Poppins;
+font-family: "Poppins";
 font-style: normal;
 font-weight: bold;
 font-size: 64px;
@@ -243,4 +237,3 @@ color: #969BAB;
     .container{
         width: 100%;
       }
-   
